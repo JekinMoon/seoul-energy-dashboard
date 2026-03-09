@@ -1,0 +1,23 @@
+[
+  "hour",
+  "dayofweek",
+  "month",
+  "is_holiday",
+  "is_peak_hour",
+  "기온(°C)",
+  "강수량(mm)",
+  "습도(%)",
+  "일사(MJ/m2)",
+  "CDD",
+  "HDD",
+  "is_heatwave",
+  "temp_3h_mean",
+  "temp_6h_max",
+  "lag_1",
+  "lag_3",
+  "lag_24",
+  "lag_168",
+  "rolling_6h_mean",
+  "rolling_24h_mean",
+  "rolling_24h_std"
+]
